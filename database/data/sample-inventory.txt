@@ -1,0 +1,8 @@
+action: Added; quantity: 48; item_code: RNA1; product_name: Mens Organic T-shirt; colour: Black; size: M
+action: Added; quantity: 36; item_code: RNA2; product_name: Mens Organic T-shirt; colour: Navy; size: L
+action: Added; quantity: 40; item_code: RNA3; product_name: Womens Organic T-shirt; colour: White; size: S
+action: Added; quantity: 22; item_code: RNA4; product_name: Womens Organic T-shirt; colour: Burgundy; size: M
+action: Added; quantity: 15; item_code: RNA5; product_name: Organic Hoodie; colour: Forest; size: M
+action: Added; quantity: 30; item_code: RNA6; product_name: Kids Organic T-shirt; colour: Sunshine; size: 5-6
+action: Added; quantity: 60; item_code: RNA7; product_name: Organic Tote; colour: Natural; size: One
+action: Added; quantity: 18; item_code: RNA8; product_name: Organic Sweatshirt; colour: Charcoal; size: L
